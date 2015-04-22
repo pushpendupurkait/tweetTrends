@@ -1,0 +1,58 @@
+2015-04-22 12:26:55,463 - [INFO] - from play in pool-4-thread-3 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-04-22 12:27:05,144 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-04-22 14:15:06,228 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin starting...
+
+2015-04-22 14:15:06,267 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin successfully started with db 'rmongo'! Servers:
+		[localhost:27017]
+
+2015-04-22 14:15:07,161 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin stops, closing connections...
+
+2015-04-22 14:15:07,183 - [INFO] - from play in pool-1-thread-1 
+Starting application default Akka system.
+
+2015-04-22 14:15:48,302 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin starting...
+
+2015-04-22 14:15:48,324 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin successfully started with db 'rmongo'! Servers:
+		[localhost:27017]
+
+2015-04-22 14:15:48,343 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin stops, closing connections...
+
+2015-04-22 14:15:48,538 - [INFO] - from play in pool-1-thread-1 
+Starting application default Akka system.
+
+2015-04-22 14:19:03,212 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin starting...
+
+2015-04-22 14:19:03,235 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin successfully started with db 'rmongo'! Servers:
+		[localhost:27017]
+
+2015-04-22 14:19:03,254 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin stops, closing connections...
+
+2015-04-22 14:19:03,443 - [INFO] - from play in pool-1-thread-1 
+Starting application default Akka system.
+
+2015-04-22 14:20:58,447 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin starting...
+
+2015-04-22 14:20:58,471 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin successfully started with db 'rmongo'! Servers:
+		[localhost:27017]
+
+2015-04-22 14:20:58,492 - [INFO] - from application in pool-1-thread-1 
+ReactiveMongoPlugin stops, closing connections...
+
+2015-04-22 14:20:58,681 - [INFO] - from play in pool-1-thread-1 
+Starting application default Akka system.
+
